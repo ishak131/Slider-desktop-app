@@ -1,0 +1,10 @@
+C:\Users\ishak\source\repos\Slider\Slider\bin\Debug\Slider.exe.config
+C:\Users\ishak\source\repos\Slider\Slider\bin\Debug\Slider.exe
+C:\Users\ishak\source\repos\Slider\Slider\bin\Debug\Slider.pdb
+C:\Users\ishak\source\repos\Slider\Slider\obj\Debug\Slider.csprojAssemblyReference.cache
+C:\Users\ishak\source\repos\Slider\Slider\obj\Debug\Slider.Form1.resources
+C:\Users\ishak\source\repos\Slider\Slider\obj\Debug\Slider.Properties.Resources.resources
+C:\Users\ishak\source\repos\Slider\Slider\obj\Debug\Slider.csproj.GenerateResource.cache
+C:\Users\ishak\source\repos\Slider\Slider\obj\Debug\Slider.csproj.CoreCompileInputs.cache
+C:\Users\ishak\source\repos\Slider\Slider\obj\Debug\Slider.exe
+C:\Users\ishak\source\repos\Slider\Slider\obj\Debug\Slider.pdb
